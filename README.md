@@ -2,7 +2,6 @@
 
 ### 📌 Project Overview
 A complete Exploratory Data Analysis (EDA) project on Uber ride data using Python.This project focuses on analyzing Uber pickup trends, rush hours, busiest days, active Uber bases, and location-based demand patterns through data visualization and statistical analysis techniques.
-
 The analysis includes:
  - Data Cleaning
  - Data Preprocessing
@@ -11,7 +10,7 @@ The analysis includes:
  - Location-Based Analysis
  - Data Visualization
 
-<img width="597" height="335" alt="image" src="https://github.com/user-attachments/assets/f16a021a-1222-4ab8-ab5d-4ade7ffe1dae" />
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f16a021a-1222-4ab8-ab5d-4ade7ffe1dae" />
 
    
 ---
@@ -37,7 +36,6 @@ This project analyzes Uber trip data to uncover valuable insights such as:
 ### 📂 Dataset Features
 The dataset contains Uber pickup records including:
  - Date/Time, Lat, Lon, Base
-
 Additional extracted features:
  - Hour, Day, Month, Weekday
 
@@ -144,5 +142,4 @@ Data Cleaning
 Feature Engineering
 Exploratory Data Analysis
 Data Visualization
-
 Overall, this project provides valuable insights that can help transportation services improve operational efficiency, customer experience, and demand forecasting.
