@@ -39,7 +39,6 @@ This project analyzes Uber trip data to uncover valuable insights such as:
 ### 📂 Dataset Features
 The dataset contains Uber pickup records including:
  - Date/Time, Lat, Lon, Base
-
 Additional extracted features:
  - Hour, Day, Month, Weekday
 
