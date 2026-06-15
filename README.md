@@ -39,6 +39,7 @@ This project analyzes Uber trip data to uncover valuable insights such as:
 ### 📂 Dataset Features
 The dataset contains Uber pickup records including:
  - Date/Time, Lat, Lon, Base
+
 Additional extracted features:
  - Hour, Day, Month, Weekday
 
@@ -50,19 +51,20 @@ Additional extracted features:
  - Imported Uber ride datasets using Pandas
  - Loaded raw CSV files for analysis
  - Combined and explored ride data
-🔹 2. Data Understanding
-Performed initial dataset exploration:
 
-Checked dataset structure
-Analyzed data types
-Identified missing values
-Generated statistical summaries
-Explored pickup distributions
+🔹 2. Data Understanding
+ - Performed initial dataset exploration
+ - Checked dataset structure
+ - Analyzed data types
+ - Identified missing values
+ - Generated statistical summaries
+ - Explored pickup distributions
+   
 🔹 3. Data Cleaning
 Removed null values and duplicates
-Converted date columns into datetime format
-Standardized column formats
-Filtered invalid records
+ - Converted date columns into datetime format
+ - Standardized column formats
+ - Filtered invalid records
 🔹 4. Feature Engineering
 
 Extracted important time-based features from pickup timestamps:
