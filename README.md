@@ -9,7 +9,7 @@ The analysis includes:
  - Time-Based Analysis
  - Location-Based Analysis
  - Data Visualization
-
+   
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f16a021a-1222-4ab8-ab5d-4ade7ffe1dae" />
 
    
@@ -34,8 +34,7 @@ This project analyzes Uber trip data to uncover valuable insights such as:
 ---
 
 ### 📂 Dataset Features
-The dataset contains Uber pickup records including:
- - Date/Time, Lat, Lon, Base
+Here we use Uber dataset fetched from kaggle which have near about 15M+ records. The dataset contains Uber's Dispatching_base_num, Pickup_date, Affiliated_base_num, locationID, locationID 
 Additional extracted features:
  - Hour, Day, Month, Weekday
 
