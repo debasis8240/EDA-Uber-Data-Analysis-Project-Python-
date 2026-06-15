@@ -65,51 +65,25 @@ Removed null values and duplicates
  - Converted date columns into datetime format
  - Standardized column formats
  - Filtered invalid records
+
 🔹 4. Feature Engineering
-
-Extracted important time-based features from pickup timestamps:
-
-Hour
-Day
-Month
-Weekday
-
+Extracted important time-based features from pickup timestamps: Hour, Day, Month, Weekday
 These features helped analyze ride trends more effectively.
 
 🔹 5. Exploratory Data Analysis (EDA)
-
 Performed detailed analysis on:
-
-Monthly ride activity
-Hourly pickup trends
-Daily and weekly demand
-Uber base activity
-Geographic pickup density
+ - Monthly ride activity
+ - Hourly pickup trends
+ - Daily and weekly demand
+ - Uber base activity
+ - Geographic pickup density
+   
 🔹 6. Time-Based Analysis
-
-Analyzed:
-
-Peak rush hours
-Busiest weekdays
-Monthly demand variations
-Hour-wise ride patterns
-
+Analyzed: Peak rush hours, Busiest weekdays, Monthly demand variations, Hour-wise ride patterns
 Identified the time periods with the highest Uber usage.
 
 🔹 7. Location-Based Analysis
+Used latitude and longitude data to: Identify high-demand pickup zones, Analyze geographic ride distribution, Visualize pickup density across locations
 
-Used latitude and longitude data to:
-
-Identify high-demand pickup zones
-Analyze geographic ride distribution
-Visualize pickup density across locations
 🔹 8. Data Visualization
-
-Created visualizations including:
-
-Heatmaps
-Count plots
-Histograms
-Bar charts
-Scatter plots
-Pairwise analysis plots
+Created visualizations including: Heatmaps, Count plots, Histograms, Bar charts, Scatter plots, Pairwise analysis plots
