@@ -10,6 +10,9 @@ The analysis includes:
  - Time-Based Analysis
  - Location-Based Analysis
  - Data Visualization
+
+<img width="597" height="335" alt="image" src="https://github.com/user-attachments/assets/f16a021a-1222-4ab8-ab5d-4ade7ffe1dae" />
+
    
 ---
 
@@ -27,12 +30,7 @@ This project analyzes Uber trip data to uncover valuable insights such as:
 ---
 
 ### 🛠️ Technologies Used
- - Python
- - Jupyter Notebook
- - Pandas
- - NumPy
- - Matplotlib
- - Seaborn
+ - Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
